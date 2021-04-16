@@ -1,6 +1,6 @@
 # New Project
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+> ✨ Import dep by CDN
 
 ## Available Scripts
 
