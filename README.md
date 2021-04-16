@@ -1,6 +1,6 @@
 # New Project
 
-> ✨ Import dep by CDN
+> ✨ Import dependencies by CDN
 
 ## Available Scripts
 
